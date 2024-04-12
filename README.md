@@ -9,7 +9,8 @@ Abugapoultry Management System (AMS) has been developed specifically for Abugapo
 - Feed Management: Recording feed costs and the quantity consumed to manage resources efficiently.
 - Revenue Analysis: A comprehensive view of the farm's revenue trends, including increases and decreases.
 - Sales Recording: Maintaining detailed records of all sales transactions for transparency and accountability.
-This system has been designed to address the diverse operational needs of Abugapoultry, aiming to enhance efficiency and effectiveness in managing the poultry farm business.
+This system has been designed to address the diverse operational needs of Abugapoultry, aiming to enhance efficiency and effectiveness in managing the poultry farm business.https://abugapoultry.000webhostapp.com/
+
 
 # Implemented Functionalities:
 
