@@ -1,5 +1,6 @@
-# Final_project
-# AMS
+# Final_project(AMS)
+<img width="944" alt="image" src="https://github.com/Abugatwin/Final_project/assets/115842884/a59f45f0-e705-4f2d-a596-bf7bb8e43a19">
+
 Abugapoultry Management System (AMS) has been developed specifically for Abugapoultry, a growing poultry farm business. With its creation as the final project for the Web Technologies course, the primary goal of AMS is to simplify and optimize all aspects of farm-related activities and transactions. This encompasses a wide range of functions, including managing egg sales, monitoring feed purchases, tracking egg and bird inventory, and oversight of flock production. The system is structured into distinct categories, each serving a specific purpose:
 
 - Egg Tracking: Monitoring and recording the total number of eggs produced.
