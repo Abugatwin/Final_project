@@ -1,5 +1,5 @@
 <?php
-include 'login_action.php';
+include 'index_action.php';
 ?>
 
 <!DOCTYPE html>
