@@ -33,3 +33,8 @@ PHP
 
 MySQL
 
+# Loging Into AMS
+
+#Username: admin
+
+#Password: admin
